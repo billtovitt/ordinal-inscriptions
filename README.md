@@ -3,4 +3,4 @@ An online interface for creating inscriptions
 
 # How to try it
 
-https://inscribetheplanet.com/
+https://supertestnet.github.io/inscriptions-online/
