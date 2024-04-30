@@ -3,4 +3,4 @@ An online interface for creating inscriptions
 
 # How to try it
 
-https://supertestnet.github.io/inscriptions-online/
+https://inscriptions-online.netlify.app
